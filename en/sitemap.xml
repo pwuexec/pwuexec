@@ -2,82 +2,82 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://pwuexec.dev/en/tags/ai/</loc>
+    <loc>https://pwuexec.github.io/pwuexec/en/tags/ai/</loc>
     <lastmod>2025-10-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pwuexec.dev/en/posts/</loc>
-    <lastmod>2025-10-12T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://pwuexec.dev/pt/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://pwuexec.dev/en/posts/"
-                />
-  </url><url>
-    <loc>https://pwuexec.dev/en/tags/career/</loc>
-    <lastmod>2025-10-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pwuexec.dev/en/posts/ai-and-developers/</loc>
-    <lastmod>2025-10-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pwuexec.dev/en/tags/productivity/</loc>
-    <lastmod>2025-10-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pwuexec.dev/en/</loc>
+    <loc>https://pwuexec.github.io/pwuexec/en/posts/</loc>
     <lastmod>2025-10-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://pwuexec.dev/pt/"
+                href="https://pwuexec.github.io/pwuexec/pt/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pwuexec.dev/en/"
+                href="https://pwuexec.github.io/pwuexec/en/posts/"
                 />
   </url><url>
-    <loc>https://pwuexec.dev/en/tags/software-engineering/</loc>
+    <loc>https://pwuexec.github.io/pwuexec/en/tags/career/</loc>
     <lastmod>2025-10-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pwuexec.dev/en/tags/</loc>
+    <loc>https://pwuexec.github.io/pwuexec/en/posts/ai-and-developers/</loc>
+    <lastmod>2025-10-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pwuexec.github.io/pwuexec/en/tags/productivity/</loc>
+    <lastmod>2025-10-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pwuexec.github.io/pwuexec/en/</loc>
     <lastmod>2025-10-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://pwuexec.dev/pt/tags/"
+                href="https://pwuexec.github.io/pwuexec/pt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pwuexec.dev/en/tags/"
+                href="https://pwuexec.github.io/pwuexec/en/"
                 />
   </url><url>
-    <loc>https://pwuexec.dev/en/about/</loc>
+    <loc>https://pwuexec.github.io/pwuexec/en/tags/software-engineering/</loc>
+    <lastmod>2025-10-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pwuexec.github.io/pwuexec/en/tags/</loc>
+    <lastmod>2025-10-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://pwuexec.dev/pt/about/"
+                href="https://pwuexec.github.io/pwuexec/pt/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pwuexec.dev/en/about/"
+                href="https://pwuexec.github.io/pwuexec/en/tags/"
                 />
   </url><url>
-    <loc>https://pwuexec.dev/en/categories/</loc>
+    <loc>https://pwuexec.github.io/pwuexec/en/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://pwuexec.dev/pt/categories/"
+                href="https://pwuexec.github.io/pwuexec/pt/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pwuexec.dev/en/categories/"
+                href="https://pwuexec.github.io/pwuexec/en/about/"
+                />
+  </url><url>
+    <loc>https://pwuexec.github.io/pwuexec/en/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://pwuexec.github.io/pwuexec/pt/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pwuexec.github.io/pwuexec/en/categories/"
                 />
   </url>
 </urlset>

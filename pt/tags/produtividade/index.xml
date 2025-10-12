@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Produtividade on pwuexec</title>
-    <link>https://pwuexec.dev/pt/tags/produtividade/</link>
+    <link>https://pwuexec.github.io/pwuexec/pt/tags/produtividade/</link>
     <description>Recent content in Produtividade on pwuexec</description>
     <image>
       <title>pwuexec</title>
-      <url>https://pwuexec.dev/images/og-image.png</url>
-      <link>https://pwuexec.dev/images/og-image.png</link>
+      <url>https://pwuexec.github.io/images/og-image.png</url>
+      <link>https://pwuexec.github.io/images/og-image.png</link>
     </image>
     <generator>Hugo -- 0.151.0</generator>
     <language>pt</language>
     <lastBuildDate>Sun, 12 Oct 2025 22:54:13 +0100</lastBuildDate>
-    <atom:link href="https://pwuexec.dev/pt/tags/produtividade/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pwuexec.github.io/pwuexec/pt/tags/produtividade/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Como a IA Está a Tornar os Programadores Mais Preguiçosos e Menos Engenheiros</title>
-      <link>https://pwuexec.dev/pt/posts/ai-e-programadores/</link>
+      <link>https://pwuexec.github.io/pwuexec/pt/posts/ai-e-programadores/</link>
       <pubDate>Sun, 12 Oct 2025 22:54:13 +0100</pubDate>
-      <guid>https://pwuexec.dev/pt/posts/ai-e-programadores/</guid>
+      <guid>https://pwuexec.github.io/pwuexec/pt/posts/ai-e-programadores/</guid>
       <description>Uma reflexão crítica sobre como as ferramentas de inteligência artificial estão a mudar a forma de pensar dos programadores — e porque isso pode ser perigoso.</description>
     </item>
   </channel>

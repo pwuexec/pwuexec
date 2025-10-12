@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Productivity on pwuexec</title>
-    <link>https://pwuexec.dev/en/tags/productivity/</link>
+    <link>https://pwuexec.github.io/pwuexec/en/tags/productivity/</link>
     <description>Recent content in Productivity on pwuexec</description>
     <image>
       <title>pwuexec</title>
-      <url>https://pwuexec.dev/images/og-image.png</url>
-      <link>https://pwuexec.dev/images/og-image.png</link>
+      <url>https://pwuexec.github.io/images/og-image.png</url>
+      <link>https://pwuexec.github.io/images/og-image.png</link>
     </image>
     <generator>Hugo -- 0.151.0</generator>
     <language>en</language>
     <lastBuildDate>Sun, 12 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://pwuexec.dev/en/tags/productivity/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pwuexec.github.io/pwuexec/en/tags/productivity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How AI Is Making Developers Lazier and Less Like Engineers</title>
-      <link>https://pwuexec.dev/en/posts/ai-and-developers/</link>
+      <link>https://pwuexec.github.io/pwuexec/en/posts/ai-and-developers/</link>
       <pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://pwuexec.dev/en/posts/ai-and-developers/</guid>
+      <guid>https://pwuexec.github.io/pwuexec/en/posts/ai-and-developers/</guid>
       <description>A critical look at how AI tools are changing the mindset of software engineers — and why that might not be a good thing.</description>
     </item>
   </channel>
