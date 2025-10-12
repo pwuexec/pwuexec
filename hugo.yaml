@@ -1,4 +1,4 @@
-baseURL: "https://pwuexec.dev/"
+baseURL: "https://pwuexec.github.io/pwuexec/"
 languageCode: "en-us"
 title: "pwuexec"
 theme: ["PaperMod"]
@@ -10,7 +10,7 @@ defaultContentLanguageInSubdir: true
 params:
   env: production
   description: "Blog sobre tecnologia, AI e desenvolvimento .NET — por pwuexec"
-  canonicalURL: "https://pwuexec.dev"
+  canonicalURL: "https://pwuexec.github.io/pwuexec"
   defaultTheme: auto
   disableThemeToggle: false
   showLanguageSwitcher: true
