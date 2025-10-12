@@ -1,0 +1,57 @@
+/* Generic utility classes for image/figure alignment and floats
+   These are loaded globally via PaperMod's assets/css/extended pipeline. */
+
+/* Float utilities */
+.float-right { float: right; }
+.float-left { float: left; }
+
+/* Figure alignment with sensible spacing for wrapped text */
+.figure-right { float: right; margin: 0 0 1rem 1rem; }
+.figure-left  { float: left;  margin: 0 1rem 1rem 0; }
+
+/* Apply block/auto sizing to images inside aligned figures */
+.figure-right img,
+.figure-left img,
+.img-right,
+.img-left {
+  height: auto;
+  display: block;
+}
+
+/* Image-specific helpers if applied directly on <img> */
+.img-right { float: right; margin: 0 0 1rem 1rem; }
+.img-left  { float: left;  margin: 0 1rem 1rem 0; }
+
+/* Clearfix helper if needed for containers following floats */
+.clearfix::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive behavior: stack floats and center content on narrow viewports */
+@media (max-width: 720px) {
+  .float-right,
+  .float-left,
+  .figure-right,
+  .figure-left,
+  .img-right,
+  .img-left {
+    float: none !important;
+    margin: 0 auto 1rem auto !important;
+    text-align: center;
+    max-width: 90%;
+  }
+  .figure-right img,
+  .figure-left img,
+  .img-right,
+  .img-left {
+    width: 100% !important;
+    height: auto !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+}
+
+/* Backward-compat: keep the old class working by mapping to generic rules */
+.about-figure-right { float: right; margin: 0 0 1rem 1rem; }

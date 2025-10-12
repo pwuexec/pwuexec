@@ -1,0 +1,116 @@
+baseURL: "https://pwuexec.dev/"
+languageCode: "en-us"
+title: "pwuexec"
+theme: ["PaperMod"]
+
+defaultContentLanguage: "en"
+defaultContentLanguageInSubdir: true
+
+# 🌐 Configuração global
+params:
+  env: production
+  description: "Blog sobre tecnologia, AI e desenvolvimento .NET — por pwuexec"
+  canonicalURL: "https://pwuexec.dev"
+  defaultTheme: auto
+  disableThemeToggle: false
+  showLanguageSwitcher: true
+  showBreadCrumbs: true
+  showReadingTime: true
+  showWordCount: true
+  showShareButtons: true
+  shareButtons: ["linkedin", "reddit", "whatsapp"]
+  showCodeCopyButtons: true
+  hideFooter: true
+  ShowToc: true
+  TocOpen: true
+  images: ["/images/og-image.png"]
+
+  # 🔍 Busca interna (opcional)
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    includeMatches: true
+    threshold: 0.3
+
+# 🧭 Saídas extras
+outputs:
+  home: ["HTML", "RSS", "JSON"]
+
+# ⚡ Performance
+minify:
+  disableXML: true
+  minifyOutput: true
+
+# 🧭 Idiomas e conteúdo
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    contentDir: "content/en"
+    title: "pwuexec"
+    params:
+      profileMode:
+        enabled: true
+        title: "Hi 👋, I'm pwuexec"
+        subtitle: "Just a .NET Developer..."
+        imageUrl: "/images/profile.webp"
+        imageTitle: "pwuexec"
+        imageWidth: 120
+        imageHeight: 120
+      socialIcons:
+        - name: "GitHub"
+          url: "https://github.com/pwuexec"
+        - name: "LinkedIn"
+          url: "https://www.linkedin.com/in/whyeduardo/"
+        - name: "CV"
+          url: "https://rxresu.me/pwuexec/eduardo-carvalho"
+    menu:
+      main:
+        - identifier: home
+          name: "Home"
+          url: "/en/"
+          weight: 1
+        - identifier: posts
+          name: "Blog"
+          url: "/en/posts/"
+          weight: 2
+        - identifier: about
+          name: "About"
+          url: "/en/about/"
+          weight: 3
+
+  pt:
+    languageName: "Português"
+    weight: 2
+    contentDir: "content/pt"
+    title: "pwuexec"
+    params:
+      homeInfoParams:
+        enabled: true
+        title: "Olá 👋"
+        content: "Blog sobre tecnologia, AI e desenvolvimento .NET — por pwuexec"
+        imageUrl: "/images/profile.webp"
+        imageTitle: "pwuexec"
+        imageWidth: 120
+        imageHeight: 120
+      socialIcons:
+        - name: "GitHub"
+          url: "https://github.com/pwuexec"
+        - name: "LinkedIn"
+          url: "https://www.linkedin.com/in/whyeduardo/"
+        - name: "CV"
+          url: "https://rxresu.me/pwuexec/eduardo-carvalho"
+    menu:
+      main:
+        - identifier: home
+          name: "Início"
+          url: "/pt/"
+          weight: 1
+        - identifier: posts
+          name: "Blog"
+          url: "/pt/posts/"
+          weight: 2
+        - identifier: about
+          name: "Sobre"
+          url: "/pt/about/"
+          weight: 3
