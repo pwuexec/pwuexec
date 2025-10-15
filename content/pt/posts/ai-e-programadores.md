@@ -26,7 +26,7 @@ Bem-vindo ao **Dopamine Coding™**, também conhecido como a **cocaína digital
 
 ## O primeiro “pico” ninguém esquece
 
-A primeira dose é mágica. Estás cansado de escrever sempre as mesmas funções e decides experimentar a IA. Carregas em *Enter* e *BOOM*: centenas de linhas de código elegante, testes incluídos e nomes de variáveis que até parecem ter sido escolhidos por um poeta sênior.
+A primeira dose é mágica. Estás cansado de escrever sempre as mesmas funções e decides experimentar a IA. Abres um chat, digitas algumas linhas e *Enter* e *BOOM*: centenas de linhas de código elegante, testes incluídos e nomes de variáveis que até parecem ter sido escolhidos por um poeta sênior.
 
 O teu cérebro inunda-se de dopamina.
 Sentes-te 10x mais produtivo.
@@ -39,9 +39,9 @@ Até acreditas que, se alguém te perguntasse numa entrevista “como funciona i
 ## A ressaca bate mais rápido do que um build falhado
 
 O paraíso dura até à primeira *bad trip*:
-O código não escala.
-A lógica de negócio está invertida.
-O endpoint responde mais devagar do que um estagiário na sexta-feira à tarde.
+* O código não escala.
+* A lógica de negócio está invertida.
+* O endpoint responde mais devagar do que um estagiário na sexta-feira à tarde.
 
 E tu não sabes por onde começar porque — surpresa — nunca pensaste no problema.
 
@@ -52,7 +52,7 @@ Agora entras em modo desespero:
 * “A empresa devia era pagar o Copilot ou o Cursor.”
 * “E se experimentar outra?”
 
-E lá vais tu, qual dependente digital, abrir novas abas:
+E lá vais tu, abrir novas tabs, exprimentar outro model:
 Claude. ChatGPT. Gemini.
 Qual bate mais forte?
 
