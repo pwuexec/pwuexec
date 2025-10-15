@@ -2,82 +2,82 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://pwuexec.github.io/pwuexec/pt/posts/</loc>
+    <loc>https://pwuexec.com/pt/posts/</loc>
     <lastmod>2025-10-12T22:54:13+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pwuexec.github.io/pwuexec/en/posts/"
+                href="https://pwuexec.com/en/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://pwuexec.github.io/pwuexec/pt/posts/"
+                href="https://pwuexec.com/pt/posts/"
                 />
   </url><url>
-    <loc>https://pwuexec.github.io/pwuexec/pt/tags/carreira/</loc>
+    <loc>https://pwuexec.com/pt/tags/carreira/</loc>
     <lastmod>2025-10-12T22:54:13+01:00</lastmod>
   </url><url>
-    <loc>https://pwuexec.github.io/pwuexec/pt/posts/ai-e-programadores/</loc>
+    <loc>https://pwuexec.com/pt/posts/ai-e-programadores/</loc>
     <lastmod>2025-10-12T22:54:13+01:00</lastmod>
   </url><url>
-    <loc>https://pwuexec.github.io/pwuexec/pt/tags/engenharia-de-software/</loc>
+    <loc>https://pwuexec.com/pt/tags/engenharia-de-software/</loc>
     <lastmod>2025-10-12T22:54:13+01:00</lastmod>
   </url><url>
-    <loc>https://pwuexec.github.io/pwuexec/pt/tags/ia/</loc>
+    <loc>https://pwuexec.com/pt/tags/ia/</loc>
     <lastmod>2025-10-12T22:54:13+01:00</lastmod>
   </url><url>
-    <loc>https://pwuexec.github.io/pwuexec/pt/tags/produtividade/</loc>
+    <loc>https://pwuexec.com/pt/tags/produtividade/</loc>
     <lastmod>2025-10-12T22:54:13+01:00</lastmod>
   </url><url>
-    <loc>https://pwuexec.github.io/pwuexec/pt/</loc>
+    <loc>https://pwuexec.com/pt/</loc>
     <lastmod>2025-10-12T22:54:13+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pwuexec.github.io/pwuexec/en/"
+                href="https://pwuexec.com/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://pwuexec.github.io/pwuexec/pt/"
+                href="https://pwuexec.com/pt/"
                 />
   </url><url>
-    <loc>https://pwuexec.github.io/pwuexec/pt/tags/</loc>
+    <loc>https://pwuexec.com/pt/tags/</loc>
     <lastmod>2025-10-12T22:54:13+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pwuexec.github.io/pwuexec/en/tags/"
+                href="https://pwuexec.com/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://pwuexec.github.io/pwuexec/pt/tags/"
+                href="https://pwuexec.com/pt/tags/"
                 />
   </url><url>
-    <loc>https://pwuexec.github.io/pwuexec/pt/categories/</loc>
+    <loc>https://pwuexec.com/pt/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pwuexec.github.io/pwuexec/en/categories/"
+                href="https://pwuexec.com/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://pwuexec.github.io/pwuexec/pt/categories/"
+                href="https://pwuexec.com/pt/categories/"
                 />
   </url><url>
-    <loc>https://pwuexec.github.io/pwuexec/pt/about/</loc>
+    <loc>https://pwuexec.com/pt/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pwuexec.github.io/pwuexec/en/about/"
+                href="https://pwuexec.com/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://pwuexec.github.io/pwuexec/pt/about/"
+                href="https://pwuexec.com/pt/about/"
                 />
   </url>
 </urlset>

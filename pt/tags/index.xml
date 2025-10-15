@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on pwuexec</title>
-    <link>https://pwuexec.github.io/pwuexec/pt/tags/</link>
+    <link>https://pwuexec.com/pt/tags/</link>
     <description>Recent content in Tags on pwuexec</description>
     <image>
       <title>pwuexec</title>
-      <url>https://pwuexec.github.io/images/og-image.png</url>
-      <link>https://pwuexec.github.io/images/og-image.png</link>
+      <url>https://pwuexec.com/images/og-image.png</url>
+      <link>https://pwuexec.com/images/og-image.png</link>
     </image>
     <generator>Hugo -- 0.151.0</generator>
     <language>pt</language>
     <lastBuildDate>Sun, 12 Oct 2025 22:54:13 +0100</lastBuildDate>
-    <atom:link href="https://pwuexec.github.io/pwuexec/pt/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pwuexec.com/pt/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Carreira</title>
-      <link>https://pwuexec.github.io/pwuexec/pt/tags/carreira/</link>
+      <link>https://pwuexec.com/pt/tags/carreira/</link>
       <pubDate>Sun, 12 Oct 2025 22:54:13 +0100</pubDate>
-      <guid>https://pwuexec.github.io/pwuexec/pt/tags/carreira/</guid>
+      <guid>https://pwuexec.com/pt/tags/carreira/</guid>
       <description></description>
     </item>
     <item>
       <title>Engenharia De Software</title>
-      <link>https://pwuexec.github.io/pwuexec/pt/tags/engenharia-de-software/</link>
+      <link>https://pwuexec.com/pt/tags/engenharia-de-software/</link>
       <pubDate>Sun, 12 Oct 2025 22:54:13 +0100</pubDate>
-      <guid>https://pwuexec.github.io/pwuexec/pt/tags/engenharia-de-software/</guid>
+      <guid>https://pwuexec.com/pt/tags/engenharia-de-software/</guid>
       <description></description>
     </item>
     <item>
       <title>IA</title>
-      <link>https://pwuexec.github.io/pwuexec/pt/tags/ia/</link>
+      <link>https://pwuexec.com/pt/tags/ia/</link>
       <pubDate>Sun, 12 Oct 2025 22:54:13 +0100</pubDate>
-      <guid>https://pwuexec.github.io/pwuexec/pt/tags/ia/</guid>
+      <guid>https://pwuexec.com/pt/tags/ia/</guid>
       <description></description>
     </item>
     <item>
       <title>Produtividade</title>
-      <link>https://pwuexec.github.io/pwuexec/pt/tags/produtividade/</link>
+      <link>https://pwuexec.com/pt/tags/produtividade/</link>
       <pubDate>Sun, 12 Oct 2025 22:54:13 +0100</pubDate>
-      <guid>https://pwuexec.github.io/pwuexec/pt/tags/produtividade/</guid>
+      <guid>https://pwuexec.com/pt/tags/produtividade/</guid>
       <description></description>
     </item>
   </channel>
