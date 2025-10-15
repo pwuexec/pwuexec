@@ -24,6 +24,11 @@ params:
   ShowToc: true
   TocOpen: true
   images: ["/images/og-image.png"]
+  author: ["pwuexec"]
+  ShowPostNavLinks: true
+
+  editPost:
+    appendFilePath: true
 
   assets:
     favicon: "/favicon.ico"
@@ -58,6 +63,9 @@ languages:
     contentDir: "content/en"
     title: "pwuexec"
     params:
+      editPost:
+        URL: "https://github.com/pwuexec/pwuexec/edit/main/content/en"
+        Text: "Suggest Changes"
       profileMode:
         enabled: true
         title: "Hi 👋, I'm pwuexec"
@@ -66,6 +74,13 @@ languages:
         imageTitle: "pwuexec"
         imageWidth: 120
         imageHeight: 120
+        buttons:
+          - name: "Blog"
+            url: "/en/posts/"
+          - name: "About"
+            url: "/en/about/"
+          - name: "Archive"
+            url: "/en/archives/"
       socialIcons:
         - name: "GitHub"
           url: "https://github.com/pwuexec"
@@ -87,6 +102,10 @@ languages:
           name: "About"
           url: "/en/about/"
           weight: 3
+        - identifier: search
+          name: "Search"
+          url: "/en/search/"
+          weight: 4
 
   pt:
     languageName: "Português"
@@ -94,6 +113,9 @@ languages:
     contentDir: "content/pt"
     title: "pwuexec"
     params:
+      editPost:
+        URL: "https://github.com/pwuexec/pwuexec/edit/main/content/pt"
+        Text: "Sugerir alterações"
       homeInfoParams:
         enabled: true
         title: "Olá 👋"
@@ -123,3 +145,7 @@ languages:
           name: "Sobre"
           url: "/pt/about/"
           weight: 3
+        - identifier: search
+          name: "Buscar"
+          url: "/pt/search/"
+          weight: 4

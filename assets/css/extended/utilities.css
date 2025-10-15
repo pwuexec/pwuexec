@@ -52,6 +52,3 @@
     margin-right: auto !important;
   }
 }
-
-/* Backward-compat: keep the old class working by mapping to generic rules */
-.about-figure-right { float: right; margin: 0 0 1rem 1rem; }

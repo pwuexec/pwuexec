@@ -68,6 +68,18 @@
                 href="http://localhost:1313/en/about/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/archives/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://localhost:1313/pt/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/archives/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -78,6 +90,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/en/categories/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://localhost:1313/pt/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/search/"
                 />
   </url>
 </urlset>
