@@ -116,9 +116,9 @@ A programação com IA é como um pacote de açúcar: doce no início, viciante 
 No início é tudo produtividade e euforia. Depois vêm as desculpas (“deve ser o modelo”, “devia mudar de stack”, “a empresa devia pagar o Copilot”). E, quando dás por ti, passaste mais tempo a afinar prompts do que a resolver problemas.
 
 A moral?
-👉 **Pensa primeiro, pede ajuda depois.**
-👉 **Faz perguntas melhores, em vez de prompts maiores.**
-👉 **E se a IA for a droga… que o teu cérebro seja o traficante.**
+* 👉 **Pensa primeiro, pede ajuda depois.**
+* 👉 **Faz perguntas melhores, em vez de prompts maiores.**
+* 👉 **E se a IA for a droga… que o teu cérebro seja o traficante.**
 
 Porque engenheiros resolvem problemas. O resto só recarrega tokens.
 
