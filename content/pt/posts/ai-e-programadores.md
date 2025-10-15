@@ -1,7 +1,7 @@
 ---
 title: "Como a IA Está a Tornar os Programadores Mais Preguiçosos e Menos Engenheiros"
 date: '2025-10-15T07:54:13+01:00'
-description: "Uma reflexão crítica sobre como as ferramentas de inteligência artificial estão a mudar a forma de pensar dos programadores — e porque isso pode ser perigoso."
+description: "Entre dopamina e código gerado, uma análise sarcástica ao vício moderno dos devs e ao risco de esquecer a parte mais importante que é utilizar o cérebro."
 tags: ["IA", "Engenharia de Software", "Produtividade", "Carreira"]
 draft: false
 cover:
