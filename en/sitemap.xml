@@ -68,6 +68,18 @@
                 href="https://pwuexec.com/en/about/"
                 />
   </url><url>
+    <loc>https://pwuexec.com/en/archives/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://pwuexec.com/pt/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pwuexec.com/en/archives/"
+                />
+  </url><url>
     <loc>https://pwuexec.com/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -78,6 +90,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://pwuexec.com/en/categories/"
+                />
+  </url><url>
+    <loc>https://pwuexec.com/en/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://pwuexec.com/pt/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pwuexec.com/en/search/"
                 />
   </url>
 </urlset>

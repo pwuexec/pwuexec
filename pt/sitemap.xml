@@ -56,18 +56,6 @@
                 href="https://pwuexec.com/pt/tags/"
                 />
   </url><url>
-    <loc>https://pwuexec.com/pt/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://pwuexec.com/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://pwuexec.com/pt/categories/"
-                />
-  </url><url>
     <loc>https://pwuexec.com/pt/about/</loc>
     <xhtml:link
                 rel="alternate"
@@ -78,6 +66,42 @@
                 rel="alternate"
                 hreflang="pt"
                 href="https://pwuexec.com/pt/about/"
+                />
+  </url><url>
+    <loc>https://pwuexec.com/pt/archives/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pwuexec.com/en/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://pwuexec.com/pt/archives/"
+                />
+  </url><url>
+    <loc>https://pwuexec.com/pt/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pwuexec.com/en/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://pwuexec.com/pt/search/"
+                />
+  </url><url>
+    <loc>https://pwuexec.com/pt/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pwuexec.com/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://pwuexec.com/pt/categories/"
                 />
   </url>
 </urlset>
