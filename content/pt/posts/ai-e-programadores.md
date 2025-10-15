@@ -1,48 +1,127 @@
 ---
 title: "Como a IA Está a Tornar os Programadores Mais Preguiçosos e Menos Engenheiros"
-date: '2025-10-12T22:54:13+01:00'
+date: '2025-10-15T07:54:13+01:00'
 description: "Uma reflexão crítica sobre como as ferramentas de inteligência artificial estão a mudar a forma de pensar dos programadores — e porque isso pode ser perigoso."
 tags: ["IA", "Engenharia de Software", "Produtividade", "Carreira"]
 draft: false
 cover:
-  image: "https://assets.aboutamazon.com/dims4/default/0696c63/2147483647/strip/true/crop/4093x2304+7+0/resize/1860x1047!/format/webp/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F36%2F59%2Feba4adcc4f88a972b5639ed1dde0%2Fadobestock-712831308.jpeg"
-  alt: "Desenvolvedor observando gráficos gerados por IA"
-  caption: "Ferramentas de IA tornam mais fácil entregar software, mas cobram um preço invisível."
+  image: "/images/posts/ai-e-programadores/dopamine-coding.png"
+  alt: "Dev a cheirar linhas de código - gerado pela LLM"
   relative: false
 ---
 
-## A Era Dourada da Conveniência
+# A Nova Droga da Programação Que Está a Matar Engenheiros
 
-Estamos a viver um dos períodos mais transformadores da história do desenvolvimento de software. Em poucos cliques, a IA é capaz de gerar código, propor soluções, criar fluxos inteiros que antes exigiam horas — às vezes dias — de trabalho manual
+💊 **Aviso de segurança:** Este texto contém níveis perigosos de ironia, provocações que podem ferir egos frágeis e verdades que nem o Copilot consegue auto-corrigir. Se já disseste “o prompt não funcionou, deve ser culpa do modelo”, lê por tua conta e risco.
 
-E é difícil não se encantar. O GitHub Copilot completa funções como se lesse a nossa mente. O ChatGPT sugere padrões, frameworks e até arquiteturas. A sensação de produtividade é viciante. Só que, aos poucos e sem nos darmos conta, algo mais profundo começa a mudar
+---
 
-## O Preço Invisível da Facilidade
+Lembras-te quando programar exigia pensar? Quando resolver um problema significava abrir o caderno, desenhar caixas e setas, discutir com a equipa e planear soluções? Pois… isso foi antes da era das LLMs.
 
-Há uma arte no processo de pensar como engenheiro. Uma beleza quase silenciosa em decompor um problema complexo, entender os seus limites, desenhar uma solução à medida. Quando entregamos esse processo à IA, não estamos apenas a ganhar tempo — estamos a abdicar de uma parte essencial da nossa identidade como criadores
+Hoje o ritual é mais simples: abrir o ChatGPT, mandar um “faz-me um CRUD com testes e arquitetura limpa” e voilà. Código pronto, ego inflado, dopamina no teto.
 
-Deixamos de perguntar “porquê” e passamos a aceitar o “funciona”. Criamos código que corre, mas que não compreendemos. E quando ele falha — e vai falhar — muitos ficam paralisados. Porque nunca estiveram verdadeiramente lá. Porque não participaram da construção, apenas da entrega
+Bem-vindo ao **Dopamine Coding™**, também conhecido como a **cocaína digital do programador moderno**. Barato, rápido, acessível e legal. Mas, como qualquer droga, o vício cobra um preço — e normalmente a conta chega quando o código vai para produção.
 
-## Quando Resolver se Torna Copiar
+---
 
-Engenharia de software sempre foi sobre resolver, não repetir. Sobre projetar com intenção, não apenas empilhar blocos de código prontos
+## O primeiro “pico” ninguém esquece
 
-Hoje, qualquer um pode construir uma API em minutos. Basta perguntar. Precisas de um script, de um comando, de um teste? Pergunta. O problema é que, ao obtermos respostas imediatas, estamos a aprender cada vez menos sobre o que torna essas respostas certas
+A primeira dose é mágica. Estás cansado de escrever sempre as mesmas funções e decides experimentar a IA. Carregas em *Enter* e *BOOM*: centenas de linhas de código elegante, testes incluídos e nomes de variáveis que até parecem ter sido escolhidos por um poeta sênior.
 
-Ignoramos os compromissos técnicos. Passamos por cima dos padrões. E esquecemos que, por trás de cada “resposta correta”, há contextos, escolhas, riscos e consequências
+O teu cérebro inunda-se de dopamina.
+Sentes-te 10x mais produtivo.
+Convences-te de que finalmente atingiste o estado de “engenheiro iluminado”.
 
-## O Que Realmente Devíamos Estar a Fazer
+Até acreditas que, se alguém te perguntasse numa entrevista “como funciona isso?”, terias uma resposta. (Spoiler: não terias.)
 
-A IA não é o vilão desta história. Longe disso. É uma ferramenta poderosa, uma aliada incrível quando usada com consciência
+---
 
-Mas quando a tratamos como substituta do pensamento, e não como extensão dele, estamos a reduzir a nossa profissão a um jogo de copiar e colar de luxo. E isso não é engenharia. Isso é automatização sem alma
+## A ressaca bate mais rápido do que um build falhado
 
-Os melhores profissionais não são os que escrevem menos código. São os que **entendem por que esse código existe**. Os que fazem perguntas. Os que investigam. Os que usam a IA para ir mais longe — não para pensar menos
+O paraíso dura até à primeira *bad trip*:
+O código não escala.
+A lógica de negócio está invertida.
+O endpoint responde mais devagar do que um estagiário na sexta-feira à tarde.
 
-## Uma Escolha Pessoal e Coletiva
+E tu não sabes por onde começar porque — surpresa — nunca pensaste no problema.
 
-A próxima geração de programadores vai ter uma escolha muito clara pela frente. Pode usar a IA para automatizar o raciocínio, para cortar caminho, para resolver sem entender. Ou pode usá-la como uma ferramenta de crescimento, um trampolim para pensar mais alto, com mais profundidade
+Agora entras em modo desespero:
+* “Deve ser o modelo.”
+* “Talvez seja a stack…”
+* “Deve ser a IDE.”
+* “A empresa devia era pagar o Copilot ou o Cursor.”
+* “E se experimentar outra?”
 
-Essa escolha vai definir o futuro da engenharia de software. Vai separar os que apenas usam ferramentas dos que continuam a construir fundamentos
+E lá vais tu, qual dependente digital, abrir novas abas:
+Claude. ChatGPT. Gemini.
+Qual bate mais forte?
 
-Porque no fim do dia, ser engenheiro nunca foi sobre saber todas as respostas. Sempre foi sobre **procurar melhor as perguntas certas**.
+E se adicionares MCPs à mistura… esquece. É a versão “premium” do vício. Convence-te de que agora vai correr tudo bem — e no fim continuas no mesmo sítio: sem solução e com menos neurónios a funcionar.
+
+---
+
+## Quando a IA estraga mais do que ajuda
+
+O problema não é a ferramenta. O problema é o que deixas de fazer quando a tens à disposição: pensar.
+E é aí que começam os verdadeiros estragos:
+
+* **Arquiteturas desastrosas:** a IA sugere padrões que até fazem sentido… no mundo dela.
+* **Negócios incompreendidos:** o código resolve um “como” que nunca devia ter sido resolvido.
+* **Bugs invisíveis:** o código funciona, mas ninguém sabe *porquê*.
+* **Testes inúteis:** a cobertura está a 100%, mas não cobre cenários de negócio reais.
+* **Overengineering:** achas-te muito esperto por usar merdas que nunca tinhas visto — e que provavelmente ninguém vai entender — só porque a IA diz que são mais rápidas.
+
+A cereja no topo? Quando os testes gerados automaticamente passam todos, e mesmo assim o produto falha em produção. A cobertura está impecável — e o teu sistema também, desde que nunca seja usado por um humano real.
+
+---
+
+## Eu utilizo IA para resolver o que não merece o meu cérebro
+
+Apesar de tudo isto, continuo a usar IA todos os dias. A diferença é que não a trato como uma solução milagrosa, mas sim como um estagiário hiperativo que escreve rápido e não precisa de férias.
+
+Eis alguns exemplos concretos de onde ela realmente me poupa tempo:
+
+* **TDD mais eficiente:** eu defino os cenários e a IA trata da parte *GREEN* e *REFACTOR (as vezes)*.
+* **Scripts auxiliares:** migração de dados, transformações pontuais ou tarefas de manutenção.
+* **DevOps sem dores:** comandos complexos no terminal ou pipelines de CI/CD que não quero decorar.
+* **Exploração de código legado:** para entender rapidamente partes obscuras de sistemas antigos.
+* **Aprendizagem técnica:** rever conceitos como concorrência em Go ou protocolos HTTP mais recentes.
+
+A regra é simples: **eu penso, a IA executa**.
+Nunca o contrário.
+
+---
+
+## A linha entre engenheiro e operador de prompts
+
+
+{{< figure
+src="/images/posts/ai-e-programadores/dopamine-coding-think.png"
+class="post-single"
+>}}
+
+
+Se continuarmos a usar IA como substituto do raciocínio, daqui a uns anos não haverá engenheiros — só operadores de prompts a competir para ver quem escreve “o prompt mágico” mais rápido.
+
+A verdade é que a IA pode escrever código, mas não entende o negócio. Pode sugerir soluções, mas não percebe os trade-offs. Pode construir funcionalidades, mas não sabe *porquê*.
+
+O cérebro humano ainda é a melhor tecnologia que temos.
+E se o deixares enferrujar, nenhuma LLM o vai substituir.
+
+---
+
+## Conclusão – A moral do vício digital
+
+A programação com IA é como um pacote de açúcar: doce no início, viciante no meio e com efeitos colaterais no fim.
+No início é tudo produtividade e euforia. Depois vêm as desculpas (“deve ser o modelo”, “devia mudar de stack”, “a empresa devia pagar o Copilot”). E, quando dás por ti, passaste mais tempo a afinar prompts do que a resolver problemas.
+
+A moral?
+👉 **Pensa primeiro, pede ajuda depois.**
+👉 **Faz perguntas melhores, em vez de prompts maiores.**
+👉 **E se a IA for a droga… que o teu cérebro seja o traficante.**
+
+Porque engenheiros resolvem problemas. O resto só recarrega tokens.
+
+---
+
+💡 **Epílogo:** Se já disseste “o Claude escreve melhor”, “o Gemini entende mais rápido” ou “é culpa da IDE”, parabéns. Estás oficialmente no segundo estágio do vício. O terceiro é começar a culpar a tua cadeira.

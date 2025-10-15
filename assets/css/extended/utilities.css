@@ -18,6 +18,8 @@
   display: block;
 }
 
+.text-center { text-align: center; }
+
 /* Image-specific helpers if applied directly on <img> */
 .img-right { float: right; margin: 0 0 1rem 1rem; }
 .img-left  { float: left;  margin: 0 1rem 1rem 0; }
