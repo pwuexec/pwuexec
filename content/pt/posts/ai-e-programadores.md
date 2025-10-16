@@ -121,7 +121,3 @@ A moral?
 * 👉 **E se a IA for a droga… que o teu cérebro seja o traficante.**
 
 Porque engenheiros resolvem problemas. O resto só recarrega tokens.
-
----
-
-💡 **Epílogo:** Se já disseste “o Claude escreve melhor”, “o Gemini entende mais rápido” ou “é culpa da IDE”, parabéns. Estás oficialmente no segundo estágio do vício. O terceiro é começar a culpar a tua cadeira.
