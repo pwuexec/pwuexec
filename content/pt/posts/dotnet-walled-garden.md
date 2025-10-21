@@ -10,10 +10,6 @@ cover:
   relative: false
 ---
 
-Durante décadas crescemos dentro do ecossistema Microsoft. Agora percebemos que a liberdade prometida é apenas conveniência disfarçada e que até o open source serve os mesmos donos.
-
-# Do Visual Studio ao Walled Garden A Jornada de um Developer .NET na Era do Open Source
-
 ## A Perspetiva de um Developer .NET Crescido no Mundo Microsoft
 
 Durante décadas o mundo do desenvolvimento europeu cresceu sob a mesma bandeira. Escolas, universidades e centros de formação ensinaram programação em ambientes Windows. Servidores públicos e sistemas governamentais foram construídos em cima do stack Microsoft. E as empresas seguiram o mesmo caminho porque era a opção mais natural e aparentemente segura.  
