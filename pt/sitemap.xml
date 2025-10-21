@@ -2,8 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://pwuexec.com/pt/tags/.net/</loc>
+    <lastmod>2025-10-21T09:30:00+01:00</lastmod>
+  </url><url>
+    <loc>https://pwuexec.com/pt/tags/azure/</loc>
+    <lastmod>2025-10-21T09:30:00+01:00</lastmod>
+  </url><url>
     <loc>https://pwuexec.com/pt/posts/</loc>
-    <lastmod>2025-10-15T07:54:13+01:00</lastmod>
+    <lastmod>2025-10-21T09:30:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -16,22 +22,19 @@
                 />
   </url><url>
     <loc>https://pwuexec.com/pt/tags/carreira/</loc>
-    <lastmod>2025-10-15T07:54:13+01:00</lastmod>
+    <lastmod>2025-10-21T09:30:00+01:00</lastmod>
   </url><url>
-    <loc>https://pwuexec.com/pt/posts/ai-e-programadores/</loc>
-    <lastmod>2025-10-15T07:54:13+01:00</lastmod>
+    <loc>https://pwuexec.com/pt/posts/dotnet-walled-garden/</loc>
+    <lastmod>2025-10-21T09:30:00+01:00</lastmod>
   </url><url>
-    <loc>https://pwuexec.com/pt/tags/engenharia-de-software/</loc>
-    <lastmod>2025-10-15T07:54:13+01:00</lastmod>
+    <loc>https://pwuexec.com/pt/tags/linux/</loc>
+    <lastmod>2025-10-21T09:30:00+01:00</lastmod>
   </url><url>
-    <loc>https://pwuexec.com/pt/tags/ia/</loc>
-    <lastmod>2025-10-15T07:54:13+01:00</lastmod>
-  </url><url>
-    <loc>https://pwuexec.com/pt/tags/produtividade/</loc>
-    <lastmod>2025-10-15T07:54:13+01:00</lastmod>
+    <loc>https://pwuexec.com/pt/tags/open-source/</loc>
+    <lastmod>2025-10-21T09:30:00+01:00</lastmod>
   </url><url>
     <loc>https://pwuexec.com/pt/</loc>
-    <lastmod>2025-10-15T07:54:13+01:00</lastmod>
+    <lastmod>2025-10-21T09:30:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -44,7 +47,7 @@
                 />
   </url><url>
     <loc>https://pwuexec.com/pt/tags/</loc>
-    <lastmod>2025-10-15T07:54:13+01:00</lastmod>
+    <lastmod>2025-10-21T09:30:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -55,6 +58,18 @@
                 hreflang="pt"
                 href="https://pwuexec.com/pt/tags/"
                 />
+  </url><url>
+    <loc>https://pwuexec.com/pt/posts/ai-e-programadores/</loc>
+    <lastmod>2025-10-15T07:54:13+01:00</lastmod>
+  </url><url>
+    <loc>https://pwuexec.com/pt/tags/engenharia-de-software/</loc>
+    <lastmod>2025-10-15T07:54:13+01:00</lastmod>
+  </url><url>
+    <loc>https://pwuexec.com/pt/tags/ia/</loc>
+    <lastmod>2025-10-15T07:54:13+01:00</lastmod>
+  </url><url>
+    <loc>https://pwuexec.com/pt/tags/produtividade/</loc>
+    <lastmod>2025-10-15T07:54:13+01:00</lastmod>
   </url><url>
     <loc>https://pwuexec.com/pt/archives/</loc>
     <xhtml:link

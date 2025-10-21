@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Carreira on pwuexec</title>
-    <link>https://pwuexec.com/pt/tags/carreira/</link>
-    <description>Recent content in Carreira on pwuexec</description>
+    <title>.NET on pwuexec</title>
+    <link>https://pwuexec.com/pt/tags/.net/</link>
+    <description>Recent content in .NET on pwuexec</description>
     <image>
       <title>pwuexec</title>
       <url>https://pwuexec.com/images/og-image.png</url>
@@ -12,20 +12,13 @@
     <generator>Hugo -- 0.151.0</generator>
     <language>pt</language>
     <lastBuildDate>Tue, 21 Oct 2025 09:30:00 +0100</lastBuildDate>
-    <atom:link href="https://pwuexec.com/pt/tags/carreira/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pwuexec.com/pt/tags/.net/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Do Visual Studio ao Walled Garden A Jornada de um Developer .NET na Era do Open Source</title>
       <link>https://pwuexec.com/pt/posts/dotnet-walled-garden/</link>
       <pubDate>Tue, 21 Oct 2025 09:30:00 +0100</pubDate>
       <guid>https://pwuexec.com/pt/posts/dotnet-walled-garden/</guid>
       <description>Durante décadas crescemos dentro do ecossistema Microsoft. Agora percebemos que a liberdade prometida é apenas conveniência disfarçada e que até o open source serve os mesmos donos.</description>
-    </item>
-    <item>
-      <title>Como a IA Está a Tornar os Programadores Mais Preguiçosos e Menos Engenheiros</title>
-      <link>https://pwuexec.com/pt/posts/ai-e-programadores/</link>
-      <pubDate>Wed, 15 Oct 2025 07:54:13 +0100</pubDate>
-      <guid>https://pwuexec.com/pt/posts/ai-e-programadores/</guid>
-      <description>Entre dopamina e código gerado, uma análise sarcástica ao vício moderno dos devs e ao risco de esquecer a parte mais importante que é utilizar o cérebro.</description>
     </item>
   </channel>
 </rss>

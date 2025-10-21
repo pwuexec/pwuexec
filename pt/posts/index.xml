@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.151.0</generator>
     <language>pt</language>
-    <lastBuildDate>Wed, 15 Oct 2025 07:54:13 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 21 Oct 2025 09:30:00 +0100</lastBuildDate>
     <atom:link href="https://pwuexec.com/pt/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Do Visual Studio ao Walled Garden A Jornada de um Developer .NET na Era do Open Source</title>
+      <link>https://pwuexec.com/pt/posts/dotnet-walled-garden/</link>
+      <pubDate>Tue, 21 Oct 2025 09:30:00 +0100</pubDate>
+      <guid>https://pwuexec.com/pt/posts/dotnet-walled-garden/</guid>
+      <description>Durante décadas crescemos dentro do ecossistema Microsoft. Agora percebemos que a liberdade prometida é apenas conveniência disfarçada e que até o open source serve os mesmos donos.</description>
+    </item>
     <item>
       <title>Como a IA Está a Tornar os Programadores Mais Preguiçosos e Menos Engenheiros</title>
       <link>https://pwuexec.com/pt/posts/ai-e-programadores/</link>

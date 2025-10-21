@@ -11,13 +11,41 @@
     </image>
     <generator>Hugo -- 0.151.0</generator>
     <language>pt</language>
-    <lastBuildDate>Wed, 15 Oct 2025 07:54:13 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 21 Oct 2025 09:30:00 +0100</lastBuildDate>
     <atom:link href="https://pwuexec.com/pt/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>.NET</title>
+      <link>https://pwuexec.com/pt/tags/.net/</link>
+      <pubDate>Tue, 21 Oct 2025 09:30:00 +0100</pubDate>
+      <guid>https://pwuexec.com/pt/tags/.net/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Azure</title>
+      <link>https://pwuexec.com/pt/tags/azure/</link>
+      <pubDate>Tue, 21 Oct 2025 09:30:00 +0100</pubDate>
+      <guid>https://pwuexec.com/pt/tags/azure/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Carreira</title>
       <link>https://pwuexec.com/pt/tags/carreira/</link>
-      <pubDate>Wed, 15 Oct 2025 07:54:13 +0100</pubDate>
+      <pubDate>Tue, 21 Oct 2025 09:30:00 +0100</pubDate>
       <guid>https://pwuexec.com/pt/tags/carreira/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linux</title>
+      <link>https://pwuexec.com/pt/tags/linux/</link>
+      <pubDate>Tue, 21 Oct 2025 09:30:00 +0100</pubDate>
+      <guid>https://pwuexec.com/pt/tags/linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Open Source</title>
+      <link>https://pwuexec.com/pt/tags/open-source/</link>
+      <pubDate>Tue, 21 Oct 2025 09:30:00 +0100</pubDate>
+      <guid>https://pwuexec.com/pt/tags/open-source/</guid>
       <description></description>
     </item>
     <item>
