@@ -104,7 +104,7 @@ Nunca o contrário.
 
 {{<figure
 src="/images/posts/ai-e-programadores/dopamine-coding-think.png"
-class="post-single" 
+class="post-single"
 >}}
 
 Se continuarmos a usar IA como substituto do raciocínio, daqui a uns anos não haverá engenheiros.
@@ -135,4 +135,3 @@ Porque engenheiros resolvem problemas reais com impacto real.
 O resto só recarrega tokens e chama a isso trabalho.
 
 Em resumo: a IA não te torna menos engenheiro. Tu é que te tornas, se a deixares pensar por ti. Usa-a como aliada para explorar soluções e acelerar ideias, mas lembra-te de que o verdadeiro diferencial está em perceber o que precisa de ser resolvido e porquê. Essa clareza é a diferença entre quem cria valor e quem só gera linhas de código — e entre quem está a conduzir o futuro e quem está apenas a carregar no botão da dopamina.
-
