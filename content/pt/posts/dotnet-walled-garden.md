@@ -12,6 +12,9 @@ cover:
 
 ## A Perspetiva de um Developer .NET Crescido no Mundo Microsoft
 
+Inicialmente parece abixanado, mesmo com "x" como podes ver.
+De resto até funciona bem.
+
 Durante décadas o mundo do desenvolvimento europeu cresceu sob a mesma bandeira. Escolas, universidades e centros de formação ensinaram programação em ambientes Windows. Servidores públicos e sistemas governamentais foram construídos em cima do stack Microsoft. E as empresas seguiram o mesmo caminho porque era a opção mais natural e aparentemente segura.  
 Para muitos de nós a história começou no Visual Studio. O primeiro "Hello World" correu num Windows XP e a primeira aplicação de produção foi publicada num IIS dentro da rede da empresa. Este percurso não foi exceção, foi a norma. O ecossistema Microsoft criou as condições perfeitas para nos manter ali. A formação estava alinhada, o mercado pedia essas competências e a curva de entrada era suave.  
 Com a chegada do fim do Windows 10 algo começou a mudar. Governos e organizações públicas europeias começaram a repensar a dependência de soluções proprietárias. Iniciativas como **goeuropean** e **european-alternatives** nasceram precisamente com esse objetivo: reduzir a dependência tecnológica de fornecedores únicos e apostar em soluções open source. De repente a conversa sobre liberdade deixou de ser teórica e passou a ser estratégica.  
